@@ -1,4 +1,14 @@
 ## Hi there 👋
+I am a 3rd-year computer science student at UCLA, Henry Samueli School of Engineering. I love building full-stack web apps, always looking for new projects to work on!
+
+👨🏻‍💻 Currently working on Bruin Connect, an online social platform for university clubs and organizations
+
+💻 Personal Website: https://kevinduong.dev
+
+<img src="https://camo.githubusercontent.com/b0da060b0237877908206fb134e55edc851e45dfc04e58d90cb97fcf0d14ad96/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" width="20"/> LinkedIn: https://www.linkedin.com/in/kevin-duong-/
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-D23)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-D23&show_icons=true&rank_icon=github)
 
 <!--
 **Kevin-D23/Kevin-D23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
