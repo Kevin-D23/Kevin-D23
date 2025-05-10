@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a 3rd-year computer science student at UCLA, Henry Samueli School of Engineering. I love building full-stack web apps, always looking for new projects to work on!
+I am a 4th computer science student at UCLA, Henry Samueli School of Engineering. I love building full-stack web apps, always looking for new projects to work on!
 
 👨🏻‍💻 Currently working on Bruin Connect, an online social platform for university clubs and organizations
 
