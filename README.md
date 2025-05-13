@@ -103,12 +103,6 @@ I am a 4th computer science student at UCLA, Henry Samueli School of Engineering
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-D23"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Kevin-D23&show_icons=true&rank_icon=github"/>
 </div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kevin-d23" alt="kevin-d23"/>
-  </a>
-</div>
 <!--
 **Kevin-D23/Kevin-D23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
